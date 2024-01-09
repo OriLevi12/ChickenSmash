@@ -1,0 +1,5 @@
+C:\Users\Maor\Desktop\Chicken Invaders\Chicken Invaders.exe
+C:\Users\Maor\Desktop\Chicken Invaders\Chicken Invaders.dll
+C:\Users\Maor\Desktop\Chicken Invaders\Chicken Invaders.deps.json
+C:\Users\Maor\Desktop\Chicken Invaders\Chicken Invaders.runtimeconfig.json
+C:\Users\Maor\Desktop\Chicken Invaders\Chicken Invaders.pdb

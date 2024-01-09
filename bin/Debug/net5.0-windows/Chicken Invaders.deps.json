@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chicken Invaders/1.0.0": {
+        "runtime": {
+          "Chicken Invaders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chicken Invaders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

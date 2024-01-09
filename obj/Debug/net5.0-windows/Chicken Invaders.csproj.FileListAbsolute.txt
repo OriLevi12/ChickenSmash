@@ -1,0 +1,95 @@
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.csproj.AssemblyReference.cache
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.csproj.GenerateResource.cache
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfoInputs.cache
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfo.cs
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Maor\source\repos\Chicken Invaders\bin\Debug\net5.0-windows\Chicken Invaders.exe
+C:\Users\Maor\source\repos\Chicken Invaders\bin\Debug\net5.0-windows\Chicken Invaders.deps.json
+C:\Users\Maor\source\repos\Chicken Invaders\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.json
+C:\Users\Maor\source\repos\Chicken Invaders\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.dev.json
+C:\Users\Maor\source\repos\Chicken Invaders\bin\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Maor\source\repos\Chicken Invaders\bin\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Maor\source\repos\Chicken Invaders\bin\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken Invaders.genruntimeconfig.cache
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken_Invaders.Properties.Resources.resources
+C:\Users\Maor\source\repos\Chicken Invaders\obj\Debug\net5.0-windows\Chicken_Invaders.ChickenInvaders.resources
+C:\Users\Maor\source\repos\chickeninvaders backup\bin\Debug\net5.0-windows\Chicken Invaders.exe
+C:\Users\Maor\source\repos\chickeninvaders backup\bin\Debug\net5.0-windows\Chicken Invaders.deps.json
+C:\Users\Maor\source\repos\chickeninvaders backup\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.json
+C:\Users\Maor\source\repos\chickeninvaders backup\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.dev.json
+C:\Users\Maor\source\repos\chickeninvaders backup\bin\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Maor\source\repos\chickeninvaders backup\bin\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Maor\source\repos\chickeninvaders backup\bin\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.csproj.AssemblyReference.cache
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken_Invaders.ChickenInvaders.resources
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken_Invaders.Properties.Resources.resources
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.csproj.GenerateResource.cache
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfoInputs.cache
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfo.cs
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Maor\source\repos\chickeninvaders backup\obj\Debug\net5.0-windows\Chicken Invaders.genruntimeconfig.cache
+C:\Users\Maor\source\repos\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.exe
+C:\Users\Maor\source\repos\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.deps.json
+C:\Users\Maor\source\repos\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.json
+C:\Users\Maor\source\repos\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.dev.json
+C:\Users\Maor\source\repos\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Maor\source\repos\chickeninvaders backup1\bin\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Maor\source\repos\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.csproj.AssemblyReference.cache
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken_Invaders.ChickenInvaders.resources
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken_Invaders.Properties.Resources.resources
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.csproj.GenerateResource.cache
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfoInputs.cache
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfo.cs
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Maor\source\repos\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.genruntimeconfig.cache
+C:\Users\Maor\Desktop\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.exe
+C:\Users\Maor\Desktop\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.deps.json
+C:\Users\Maor\Desktop\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.json
+C:\Users\Maor\Desktop\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.dev.json
+C:\Users\Maor\Desktop\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Maor\Desktop\chickeninvaders backup1\bin\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Maor\Desktop\chickeninvaders backup1\bin\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.csproj.AssemblyReference.cache
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken_Invaders.ChickenInvaders.resources
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken_Invaders.Properties.Resources.resources
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.csproj.GenerateResource.cache
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfoInputs.cache
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfo.cs
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Maor\Desktop\chickeninvaders backup1\obj\Debug\net5.0-windows\Chicken Invaders.genruntimeconfig.cache
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\bin\Debug\net5.0-windows\Chicken Invaders.exe
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\bin\Debug\net5.0-windows\Chicken Invaders.deps.json
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.json
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\bin\Debug\net5.0-windows\Chicken Invaders.runtimeconfig.dev.json
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\bin\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\bin\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\bin\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.csproj.AssemblyReference.cache
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken_Invaders.ChickenInvaders.resources
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken_Invaders.Properties.Resources.resources
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.csproj.GenerateResource.cache
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfoInputs.cache
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.AssemblyInfo.cs
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.dll
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\ref\Chicken Invaders.dll
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.pdb
+C:\Users\Shaked&Ori\OneDrive\Desktop\Chicken Invaders final\obj\Debug\net5.0-windows\Chicken Invaders.genruntimeconfig.cache
